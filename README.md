@@ -1,1 +1,1 @@
-These all are my DBMS Lab Task Assignments. 
+These 10 are my DBMS Lab Experiment . 
